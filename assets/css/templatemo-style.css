@@ -475,7 +475,7 @@ section.my-work .section-heading {
 }
 
 .isotope-wrapper {
-    position: relative;
+    position: absolute;
     width: 100%;
     margin: auto;
 }
@@ -502,7 +502,7 @@ section.my-work .section-heading {
 }
 
 .isotope-box {
-    position: relative;
+    position:absolute;
     width: 100%;
 }
 
