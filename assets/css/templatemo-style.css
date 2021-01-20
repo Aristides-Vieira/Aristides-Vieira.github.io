@@ -503,8 +503,8 @@ section.my-work .section-heading {
 
 .isotope-box {
     position: relative;
-    width: 800px;
-    height: 800px;
+    width: 100%;
+    height: 100%;
 }
 
 .isotope-toolbar {
