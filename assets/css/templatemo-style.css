@@ -792,8 +792,8 @@ section.contact-me {
         left: 3%;
     }
     .isotope-item {
-        height: 800px;
-        width: 800px;
+        height: 500px;
+        width: 400px;
         margin: 3%;
     }
     .left-image-post img {
@@ -803,8 +803,6 @@ section.contact-me {
         margin-top: 30px;
     }
     .isotope-item {
-        height: 800px;
-        width: 800px;
         border-bottom: none;
         text-align: center;
     }
