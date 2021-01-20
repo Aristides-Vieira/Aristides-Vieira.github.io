@@ -503,8 +503,8 @@ section.my-work .section-heading {
 
 .isotope-box {
     position: relative;
-    width: 100%;
-    height: 100%;
+    width: 800px;
+    height: 800px;
 }
 
 .isotope-toolbar {
@@ -792,8 +792,8 @@ section.contact-me {
         left: 3%;
     }
     .isotope-item {
-        height: 500px;
-        width: 400px;
+        height: 800px;
+        width: 800px;
         margin: 3%;
     }
     .left-image-post img {
@@ -803,6 +803,8 @@ section.contact-me {
         margin-top: 30px;
     }
     .isotope-item {
+        height: 800px;
+        width: 800px;
         border-bottom: none;
         text-align: center;
     }
