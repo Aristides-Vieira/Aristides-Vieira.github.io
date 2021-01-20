@@ -492,7 +492,7 @@ section.my-work .section-heading {
     font-size: 15px;
     font-weight: 700;
     border-bottom: 2px solid transparent;
-    transform: ease-in-out 0.5s;
+    transform: initial;
     cursor: pointer;
 }
 
@@ -502,7 +502,7 @@ section.my-work .section-heading {
 }
 
 .isotope-box {
-    position: fixed;
+    position: relative;
     width: 100%;
 }
 
@@ -552,8 +552,8 @@ figure.snip1321 {
   perspective: 50em;
 }
 figure.snip1321 * {
-  -webkit-box-sizing: padding-box;
-  box-sizing: padding-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   -webkit-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
